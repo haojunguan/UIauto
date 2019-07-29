@@ -2,7 +2,7 @@ import time
 import unittest
 
 from config import *
-from login.login_parameter import LoginTest
+#from login.login_parameter import LoginTest
 from login import *
 
 #对账管理-药店报表打印-打印月度汇总表
